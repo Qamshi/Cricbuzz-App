@@ -1,0 +1,33 @@
+Babar Azam
+53.21
+9
+6
+2
+7612
+150
+12
+right
+right
+Shaheen Shah Afridi
+17
+32.11
+3
+5
+12
+240
+99
+72
+Left
+Right
+
+Babar Azam
+12
+23
+1
+2
+3
+234
+2323
+12
+Right
+Left

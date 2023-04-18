@@ -1,0 +1,15 @@
+﻿  Menu.cpp
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(816,29): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(816,80): warning C4805: '==': unsafe mix of type 'sf::Keyboard::Key' and type 'bool' in operation
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(1672,11): warning C4129: '=': unrecognized character escape sequence
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(923,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(1184,10): warning C4552: '*': result of expression not used
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(1963,29): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(1963,80): warning C4805: '==': unsafe mix of type 'sf::Keyboard::Key' and type 'bool' in operation
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(2117,29): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(2117,80): warning C4805: '==': unsafe mix of type 'sf::Keyboard::Key' and type 'bool' in operation
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(2205,29): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.h(2205,80): warning C4805: '==': unsafe mix of type 'sf::Keyboard::Key' and type 'bool' in operation
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.cpp(21,46): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Menu.cpp(21,43): warning C4309: 'argument': truncation of constant value
+  OOP_PROJECT_FINAL.vcxproj -> C:\Users\Qamrosh Baig\source\repos\OOP_PROJECT_FINAL\Debug\OOP_PROJECT_FINAL.exe
